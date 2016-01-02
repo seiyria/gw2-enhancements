@@ -13,7 +13,7 @@ A collection of gw2 QoL enhancements.
 # How do I set it up?
 
 1. Download [AutoHotkey](https://autohotkey.com/download/ahk-install.exe).
-2. Download `gw2.ahk` and save it somewhere you will be running it from.
+2. Download `[gw2.ahk](https://github.com/seiyria/gw2-enhancements/blob/master/gw2.ahk)` and save it somewhere you will be running it from.
 3. Double click `gw2.ahk` to run it.
 4. Bind the necessary hotkeys however you want to.
 
